@@ -1,5 +1,3 @@
-> *Make sure to make students admins of their repositories*
-
 # Lab 7: Doubly Linked List
 
 ## Objective
